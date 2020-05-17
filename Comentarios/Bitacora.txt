@@ -1,0 +1,10 @@
+
+#Todo problema debe ser formulado matricialmente, de ahi la importancia de saber
+#trabajar con vectores y matrices en R
+
+# Tan (o mas) importante como saber utilizar una formula, es saber cuando NO utilizarla
+
+getwd()
+
+setwd("C:/Users/user/Desktop/R - CTIC/Clase1_R4DS/Comentarios")
+

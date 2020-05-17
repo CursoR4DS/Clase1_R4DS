@@ -1,0 +1,52 @@
+1er paso: instalar git a partir de
+git-scm.com
+
+Luego, abrir GIT BASH
+
+Tener en cuenta el hecho de tener un repositorio local y en algun momento optar por subir nuestro repositorio a Github.com
+
+-crear una cuenta en github
+- No marcar la opcion de Inicializar README y dejar el repositorio publico.
+
+-Abierto Git Bash, navegamos hasta nuestro directorio de trabajo (creado en rstudio)
+
+ejecuto pwd: consulto cual es el directorio actual
+
+cd Desktop/Clase1_R4DS: modifico mi directorio actual
+
+cd C:/Users/user/Desktop/R_CTIC/Clase1_R4DS
+
+1er Paso: Inicializamos nuestro repositorio local
+GIT INIT
+
+2do paso: AGREGAMOS TODOS LOS ARCHIVOS DEL ESPACIO DE TRABAJO A GITHUB
+git add .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
